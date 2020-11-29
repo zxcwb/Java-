@@ -1,4 +1,4 @@
-package 字符串和数组;
+package 字符串和数组.字符串;
 
 public class Blak {
     public static void main(String[] args) {
